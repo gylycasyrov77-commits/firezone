@@ -1,2 +1,2 @@
 ## Firezone for Doprax 
-Complete installation of Firezone VPN system
+Coming plete installation of Firezone VPN system
